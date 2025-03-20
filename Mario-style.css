@@ -1,0 +1,108 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    background-color: #87CEEB;
+    font-family: 'Press Start 2P', 'cursive';
+}
+.headertop {
+    text-align: center;
+    background-color: #FF4500;
+    color: white;
+    margin: 0;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    width: 101.5%;
+    border: 1px;
+    border-bottom: red;
+}
+.header1 {
+    font-size: large;
+    font-weight: 900;
+    padding-top: 20px;
+    margin-top : 0;
+}
+.header2 {
+    font-weight: 500;
+    padding-bottom:  20px;
+    font-size:x-small;
+}
+.sidebar {
+    background-color:#FFD700;
+    width: 15%;
+    height: 600px;
+    text-align: center;
+    font-weight: 600;
+    margin: 0;
+    margin-left: auto;
+    margin-right: -10px;
+    margin-top: -10px;
+    padding-top: 10px;
+    border: 4px #B8860B solid; 
+    font-size: small;
+}
+.navbar {
+    list-style-type: none;
+    text-align: center;
+}
+.navlist {
+    position: relative;
+    width: 120%;
+    padding-top: 20px;
+    padding: 5px;
+    border-bottom: 2px #B8860B solid ;
+    margin-left:-40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navlist:hover{
+    background-color: #FF4500;
+    color:white;
+}
+
+.mainint {
+    margin-top: -600px;
+    margin-left: 10px;
+    background-color: #F5DEB3;
+    width: 78%;
+    height: 400px;
+    padding: 10px;
+    padding-left: 40px;
+    border: 3px #B8860B solid;
+}
+.footer1 {
+    text-align: center;
+    font-size: medium;
+    padding: 50px;
+    margin: auto;
+}
+.mainh1 {
+    text-decoration: dashed;
+    font-size: larger;
+    font-weight: bold;
+}
+.mainh2 {
+    font-size:medium;
+}
+.subheader1 {
+    font-size: smaller;
+}
+.subheader2 {
+    font-size: smaller;
+    border: 2px #B8860B solid;
+    border-width: 2px;
+    padding: 5px;
+}
+.sp {
+    background-color: #228B22;
+    width: 240px;
+    padding: 4px;
+    margin:auto;
+    font-size: smaller;
+    color: white;
+}
+.table1 {
+    border: 2px #B8860B solid; 
+    width:100%;
+}
